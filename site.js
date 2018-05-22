@@ -10,7 +10,7 @@ document.body.appendChild(topMenu)
 
 let logo = document.createElement("h1")
 topMenu.appendChild(logo)
-logo.append("High On Coding")
+logo.append("HighOnCoding")
 
 let home = document.createElement("a")
 topMenu.appendChild(home)
